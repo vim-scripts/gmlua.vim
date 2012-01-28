@@ -1,0 +1,3 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=3910
+
+Syntax rules for the dialect of Lua 5.1 used in Garry's Mod. This currently reproduces most of the standard Lua rules. It should be rewritten to include them instead.
